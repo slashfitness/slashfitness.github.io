@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>光博士的蹦健身學院</title>
+    <link>https://slashfitness.github.io/</link>
+    <description>Recent content on 光博士的蹦健身學院</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 03 Jun 2023 09:08:47 +0800</lastBuildDate><atom:link href="https://slashfitness.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>健美備賽前最重要的七個問題</title>
+      <link>https://slashfitness.github.io/blog/test/</link>
+      <pubDate>Sat, 03 Jun 2023 09:08:47 +0800</pubDate>
+      
+      <guid>https://slashfitness.github.io/blog/test/</guid>
+      <description>hell world
+hello world hello world Hello world 我是光宗 光宗</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://slashfitness.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://slashfitness.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
