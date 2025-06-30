@@ -45,7 +45,34 @@
 
 
 </head>
-<body>
+
+<div class="modal fade" id="signupModal" tabindex="-1" aria-labelledby="signupModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="signupModalLabel">立即報名體驗課！</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="關閉"></button>
+      </div>
+      <div class="modal-body text-center">
+        
+        <img src="/images/new.jpg" alt="報名活動圖" class="img-fluid mb-3">
+
+        把握名額！點下方按鈕前往報名頁面～
+      </div>
+      <div class="modal-footer">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6lN7oyaBZk1YPseUtXpoDdt8CAJ_RxNnbI7jjhKsGtQZ81A/viewform" target="_blank" class="btn btn-primary">前往報名</a>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  window.addEventListener('load', function () {
+    var myModal = new bootstrap.Modal(document.getElementById('signupModal'));
+    myModal.show();
+  });
+</script>
+
+    <body>
 <!-- preloader start -->
 <div class="preloader">
   
